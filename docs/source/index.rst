@@ -340,11 +340,3 @@ Level 2 #azurlane 에서 문의하라구
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
-
-
-
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
