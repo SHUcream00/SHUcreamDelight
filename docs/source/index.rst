@@ -340,3 +340,7 @@ Level 2 #azurlane 에서 문의하라구
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
+
+기능 추가 및 수정 건의는
+-----------------------------------
+#건의_suggestions 채널으로 ㄱㄱㄱ
